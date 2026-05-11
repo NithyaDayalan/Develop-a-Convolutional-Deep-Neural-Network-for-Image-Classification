@@ -4,10 +4,10 @@
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ## PROBLEM STATEMENT AND DATASET :
-Include the Problem Statement and Dataset.
+The problem is to design and develop a Convolutional Deep Neural Network (CNN) that can automatically classify grayscale images into predefined categories. The model must learn important spatial features such as edges, textures, and shapes from image data and accurately predict the correct class label.
 
 ## Neural Network Model :
-Include the neural network model diagram.
+<img width="806" height="507" alt="image" src="https://github.com/user-attachments/assets/d0211a29-af5e-45d8-86c1-3008a197fe42" />
 
 ## DESIGN STEPS :
 ### STEP 1: 
